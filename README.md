@@ -1,7 +1,6 @@
 # ChatTai
 ### Demo video
-[[https://www.youtube.com/watch?v=_soBWB8RCgo&ab_channel=%E9%99%B317](https://youtu.be/ZHNJ1a20d4Y)](https://www.youtube.com/watch?v=_soBWB8RCgo&ab_channel=%E9%99%B317)
-
+https://youtu.be/ZHNJ1a20d4Y
 https://github.com/user-attachments/assets/42393195-f31b-4f13-8051-2bf0d1512c2b
 
 ![1](https://github.com/user-attachments/assets/004c08e9-61d1-4684-a3af-efd7934f4411)
